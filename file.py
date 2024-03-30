@@ -20,4 +20,4 @@ r2 = r2_score(y_test, y_pred)
 # Print the calculated metrics
 print("Mean Squared Error:", mse)
 print("R-squared:", r2)
-
+print("hello")
